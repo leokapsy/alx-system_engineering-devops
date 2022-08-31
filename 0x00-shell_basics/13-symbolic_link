@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls __ls__case 
+ln -s /bin/ls __ls__
