@@ -1,0 +1,1 @@
+Monday script shell redirection
